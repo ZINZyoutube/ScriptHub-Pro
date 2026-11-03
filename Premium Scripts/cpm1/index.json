@@ -1,0 +1,9 @@
+{
+  "name": "💎 CPM 1 (Premium)",
+  "required_version": "4.8.20",
+  "last_updated": "2026-11-03",
+  "scripts": [
+    { "name": "💎 CPM1 Godmode", "file": "godmode.lua", "date": "2026-11-03" },
+    { "name": "💎 CPM1 Unlock All", "file": "unlock.lua", "date": "2026-11-03" }
+  ]
+}
