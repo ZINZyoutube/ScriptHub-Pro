@@ -1,5 +1,6 @@
 {
   "games": [
-    { "id": "cpm1", "name": "🚗 CPM 1", "path": "Game Scripts/cpm1/" }
+    { "id": "cpm1", "name": "🚗 CPM 1", "path": "Game Scripts/cpm1/" },
+    { "id": "cpm2", "name": "🚙 Car Parking Multiplayer 2", "path": "Game Scripts/Car Parking Multiplayer 2/" }
   ]
 }
