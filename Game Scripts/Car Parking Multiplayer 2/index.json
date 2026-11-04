@@ -1,8 +1,6 @@
 {
   "name": "🚙 Car Parking Multiplayer 2",
-  "required_version": "1.3.0",
-  "last_updated": "2026-11-04",
-  "scripts": [
-    { "name": "🇵🇭 SEC CPM2 Beta (v1.3)", "file": "🇵🇭SEC_CPM2_Beta_v1.3.lua", "date": "2026-11-04" }
+  "versions": [
+    { "version": "v1.3.4", "path": "v1.3.4/" }
   ]
 }
